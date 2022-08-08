@@ -1,0 +1,47 @@
+.Product{
+    margin: 3rem 0 0 3rem;
+
+}
+
+.fa-camera-cctv{
+    color: #000 !important;
+}
+h2{
+    color: rgb(105, 105, 105);
+}
+.policy{
+    background-color: rgb(244, 244, 244);
+    border-radius: 15px;
+    box-shadow: -6px 19px 31px -28px rgb(0 0 0 / 47%);
+    transition: 0.4s ease-in-out;
+}
+.policy:hover{
+    background-color: rgb(244, 244, 244);
+    border-radius: 15px;
+    box-shadow: -6px 19px 70px -28px rgb(0 0 0 / 47%);
+}
+.policy-icon{
+    color: rgb(33, 33, 33) !important;
+}
+a{
+    color: rgb(18, 11, 139);
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(164, 164, 164);
+}
+.viewall button{
+    background-color: #fac13d;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    padding: 15px 30px;
+    transition: 0.7s ease-in-out;
+   
+
+}
+.viewall{
+    justify-content: center;
+} 
+
